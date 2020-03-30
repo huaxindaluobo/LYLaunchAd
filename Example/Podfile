@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LYLaunchAd_Example' do
+  pod 'LYLaunchAd', :path => '../'
+
+  target 'LYLaunchAd_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
