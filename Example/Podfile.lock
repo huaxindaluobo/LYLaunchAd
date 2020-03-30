@@ -1,0 +1,16 @@
+PODS:
+  - LYLaunchAd (0.1.0)
+
+DEPENDENCIES:
+  - LYLaunchAd (from `../`)
+
+EXTERNAL SOURCES:
+  LYLaunchAd:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LYLaunchAd: 02b3123326703bb322dd40a9fa1da4a33046702f
+
+PODFILE CHECKSUM: f94112e85ab923400ca78864f8ad3ff64db54223
+
+COCOAPODS: 1.8.3

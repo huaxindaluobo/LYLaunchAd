@@ -1,0 +1,6 @@
+framework module Pods_LYLaunchAd_Tests {
+  umbrella header "Pods-LYLaunchAd_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
